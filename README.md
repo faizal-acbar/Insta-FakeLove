@@ -5,4 +5,4 @@ intallation
 
 $ git clone https://github.com/faizal-acbar/Insta-FakeLove.git
 
-$ php indotagram/login.php
+$ php Insta-FakeLove/login.php
